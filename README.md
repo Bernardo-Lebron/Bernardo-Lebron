@@ -20,15 +20,15 @@
 <p> On website development and application development.</p> -->
 
 
-<h2> - 📫 How to reach me:</h2>
-<a href="https://www.instagram.com/b.lebron_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-<a href="https://twitter.com/BLebron12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<p> E-mail: bernardolmachado@gmail.com </p>
+  <h2> - 📫 How to reach me:</h2>
+  <a href="https://www.instagram.com/b.lebron_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://twitter.com/BLebron12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+target="_blank"> </a>
 
  <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" /> 
- 
- ![Snake animation](https://github.com/Bernardo-Lebron/Bernardo-Lebron/blob/output/github-contribution-grid-snake.svg)
+
+ ![Snake animation](https://github.com/Bernardo-Lebron/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 Bernardo-Lebron/Bernardo-Lebron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
