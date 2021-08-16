@@ -24,8 +24,10 @@
   <a href="https://twitter.com/BLebron12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 target="_blank"> </a>
 
- <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" /> 
+##
 
+ <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" /> 
+![Snake animation](https://github.com/Bernardo-Lebron/Bernardo-Lebron/blob/output/github-contribution-grid-snake.svg)
 <!---
 Bernardo-Lebron/Bernardo-Lebron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
