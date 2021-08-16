@@ -7,9 +7,7 @@
 <!-- <h2> - 👀 I’m interested in </h2>
 <p> I’m interested in getting a degree in software engineering and becoming a professional in the field. </p> -->
 
-<h2> - 🌱 I’m currently learning </h2>
-<p> HTML5; CSS3; JavaScript; </p>
-  
+<h2> - 🌱 I’m currently learning </h2>  
   <div style="display: inline_block"><br>
   <img align="center" alt="Lebron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lebron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
