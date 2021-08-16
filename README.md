@@ -19,7 +19,7 @@
 
 
 <h2> - 📫 How to reach me:</h2>
-<a href="https://www.instagram.com/b.lebron_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/b.lebron_/" target="_blank" rel="external"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <p> Twitter: @BLebron12 </p>
 <p> LinkedIn: Bernardo Lebron </p>
 <p> E-mail: bernardolmachado@gmail.com </p>
