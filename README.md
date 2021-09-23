@@ -14,5 +14,5 @@
   <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/BLebron12" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
 target="_blank"> </a>
-
+<br>
  <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" /> 
