@@ -11,7 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Bernardo-Lebron&theme=react-dark)
+![trophy](https://github-profile-trophy.vercel.app/?username=Bernardo-Lebron&theme=onedark&row=1&column=6)
+
 
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
