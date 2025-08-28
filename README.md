@@ -11,7 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=Bernardo-Lebron&theme=onedark&row=1&column=6)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bernardo-Lebron&theme=dark&hide_border=true)
+
 
 
 
