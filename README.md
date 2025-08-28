@@ -11,7 +11,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Bernardo-Lebron&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&theme=tokyonight)
+
 
 
 
