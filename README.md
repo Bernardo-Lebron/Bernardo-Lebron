@@ -1,7 +1,8 @@
 <h1> - Hi, I’m Bernardo Lebron </h1>
 
-<h4> -🎓 Computer Engineering Student
-  -💻 Passionate about technology, development, and innovation
+<h4> 
+  -🎓 Computer Engineering Student <br>
+  -💻 Passionate about technology, development, and innovation <br>
   -🚀 Always looking to learn and grow in the field of computing
 </h4>
 
