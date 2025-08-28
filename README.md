@@ -16,7 +16,6 @@
   <img align="center" alt="Lebron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" aligh="center" width="40" height="30"/>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" align="center" height="30" width="40"</img>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" aligh="center" width="40" height="30"/>
 </div>
 <h2> - How to reach me:</h2>
 <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
