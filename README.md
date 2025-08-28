@@ -11,12 +11,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&theme=tokyonight)
-
-
-
-
-
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap; margin-top: 20px;">
   <img align="center" alt="Lebron-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lebron-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
