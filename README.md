@@ -14,7 +14,7 @@
   <img align="center" alt="Lebron-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lebron-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Lebron-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" aligh="center" width="20" height="70"/>
+  <img src ="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" aligh="center" width="26" height="70"/>
   <img src="https://devicon-website.vercel.app/api/python/original.svg" align="center" height="30" width="40"</img>
 </div>
 <h2> - How to reach me:</h2>
