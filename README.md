@@ -25,6 +25,3 @@
 </a> 
 
 <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" />
-
-![Contributions](https://github-contributions.vercel.app/bernardo-lebron?color=green&line=white)
-
