@@ -24,3 +24,6 @@
 
 
 <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" />
+
+![Uploading image.png…]()
+
