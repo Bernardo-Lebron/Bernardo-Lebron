@@ -6,6 +6,11 @@
   -🚀 Always looking to learn and grow in the field of computing
 </h4>
 
+## 📊 Minhas Contribuições
+
+![Contributions](https://github-contributions.vercel.app/bernardo-lebron?theme=dracula&line=white)
+
+
 <div> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bernardo-Lebron&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&langs_count=7&theme=tokyonight"/>
