@@ -1,9 +1,9 @@
-<h1> - Hi, I’m Bernardo Lebron </h1>
+<h1> - Olá, eu sou Bernardo Lebron </h1>
 
 <h4> 
-  - Computer Engineering Student <br>
-  - Passionate about technology, development, and innovation <br>
-  - Always looking to learn and grow in the field of computing
+  - Estudante de Engenharia de Computação <br>
+  - Entusiasta de programação, tecnologia e inovação <br>
+  - Sempre em busca de aprender e crescer na área da computação
 </h4>
 
 <div> 
