@@ -17,7 +17,6 @@
   <img align="center" alt="Lebron-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lebron-C" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="center" alt="Lebron-Python" height="40" width="40" src="https://devicon-website.vercel.app/api/python/original.svg">
-  <img align="center" alt="Lebron-VScode" height="40" width="40" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 </div>
 
 <h2> - Como entrar em contato comigo: </h2>
