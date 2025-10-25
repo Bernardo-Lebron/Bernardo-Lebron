@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,python" alt="Habilidades" />
   </a>
 
-<h2> - Como entrar em contato comigo: </h2>
+<h2>  Como entrar em contato comigo: </h2>
 
 <p align="left">
   <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
