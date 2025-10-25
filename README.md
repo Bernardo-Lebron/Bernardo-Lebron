@@ -12,7 +12,7 @@
 </div>
 
 <h2> - Habilidades:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python)](https://skillicons.dev)
 </h2>
 
 <h2> - Como entrar em contato comigo: </h2>
