@@ -17,13 +17,12 @@
   </a>
 
 <h2> - Como entrar em contato comigo: </h2> 
-<p align="left"> 
   <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /> 
   </a> 
+  
   <a href="mailto:bernardolmachado@gmail.com" target="_blank"> 
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email" /> 
   </a> 
-</p>
 
 <h3><img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" /></h3>
