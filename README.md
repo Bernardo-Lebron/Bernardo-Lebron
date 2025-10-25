@@ -11,7 +11,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
 </div>
 
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,python,c++)](https://skillicons.dev)
+(https://skillicons.dev/icons?i=js,html,css,c,python,cpp)](https://skillicons.dev)
 
 <h2> - Como entrar em contato comigo: </h2>
 <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
