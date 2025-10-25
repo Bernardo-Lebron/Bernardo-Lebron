@@ -14,8 +14,8 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python)](https://skillicons.dev)
 
 <h2> - Como entrar em contato comigo: </h2>
-<a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
- (https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</a> 
-
+  <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
+  </a>
+  
 <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" />
