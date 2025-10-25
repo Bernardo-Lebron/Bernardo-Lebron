@@ -18,7 +18,7 @@
 
 <h2> - Como entrar em contato comigo: </h2>
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
