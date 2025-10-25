@@ -11,8 +11,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bernardo-Lebron&layout=compact&langs_count=7&theme=tokyonight&cache_seconds=3600"/>
 </div>
 
-<h2> - Habilidades: </h2>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,python)](https://skillicons.dev)
+<h2> - Skills: </h2>
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,python" alt="Habilidades" />
+  </a>
 
 <h2> - Como entrar em contato comigo: </h2>
   <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
