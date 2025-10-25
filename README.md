@@ -15,7 +15,7 @@
 
 <h2> - Como entrar em contato comigo: </h2>
 <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
- [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+ (https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </a> 
 
 <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" />
