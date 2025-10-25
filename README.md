@@ -20,9 +20,10 @@
   <a href="https://www.linkedin.com/in/bernardo-lebron-3155b1210/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
-    <a href="bernardolmachado@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="LinkedIn" />
+  <a href="mailto:bernardolmachado@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
   </a>
+
   
   
 <img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" />
