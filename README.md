@@ -3,7 +3,7 @@
 <h4> 
   - Estudante de Engenharia de Computação <br>
   - Entusiasta de programação, tecnologia e inovação <br>
-  - Sempre em busca de aprender e crescer na área da computação
+  - Sempre buscando expandir conhecimentos na área tecnológica
 </h4>
 
 <div> 
