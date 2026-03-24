@@ -13,7 +13,7 @@
 
 <h2> - Skills: </h2>
   <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js,html,css,c,cpp,python,java,git,github" alt="Habilidades" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,git,github,linux" alt="Habilidades" />
   </a>
 
 <h2> - Como entrar em contato comigo: </h2> 
