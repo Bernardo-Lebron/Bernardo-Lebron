@@ -25,4 +25,8 @@
     <img src="https://skillicons.dev/icons?i=gmail" alt="Email"/> 
   </a> 
 
+  <a href="https://dev.to/bernardo_lebron" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" alt=devcommunity"/>
+  </a>
+
 <h3><img src="https://komarev.com/ghpvc/?username=Bernardo-Lebron&color=green" alt="Bernardo-Lebron" /></h3>
